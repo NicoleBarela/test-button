@@ -19,5 +19,6 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     line-height: 100px;
+    -webkit-background-color: red;
 }
 
